@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"spr_FancyEggMan","path":"sprites/spr_FancyEggMan/spr_FancyEggMan.yy",},"order":0,},
+    {"id":{"name":"obj_FancyEggHead","path":"objects/obj_FancyEggHead/obj_FancyEggHead.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
