@@ -1,9 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"obj_portal_glass_cube","path":"objects/obj_portal_glass_cube/obj_portal_glass_cube.yy",},"order":1,},
+    {"id":{"name":"spr_portal_glass_cube","path":"sprites/spr_portal_glass_cube/spr_portal_glass_cube.yy",},"order":1,},
     {"id":{"name":"spr_FancyEggMan","path":"sprites/spr_FancyEggMan/spr_FancyEggMan.yy",},"order":0,},
     {"id":{"name":"obj_FancyEggHead","path":"objects/obj_FancyEggHead/obj_FancyEggHead.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -20,7 +21,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
