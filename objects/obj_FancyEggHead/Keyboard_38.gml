@@ -8,6 +8,15 @@
 x += 0;
 y += -5;
 
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 6FA073D8
+/// @DnDArgument : "imageind_relative" "1"
+/// @DnDArgument : "spriteind" "spr_FancyEggMan_walk"
+/// @DnDSaveInfo : "spriteind" "spr_FancyEggMan_walk"
+sprite_index = spr_FancyEggMan_walk;
+image_index += 0;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 667C628B

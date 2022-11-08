@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_FancyEggHead",
   "spriteId": {
-    "name": "spr_FancyEggMan",
-    "path": "sprites/spr_FancyEggMan/spr_FancyEggMan.yy",
+    "name": "spr_FancyEggMan_walk",
+    "path": "sprites/spr_FancyEggMan_walk/spr_FancyEggMan_walk.yy",
   },
   "solid": false,
   "visible": true,
